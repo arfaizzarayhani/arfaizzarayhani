@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arfa'izza Rayhani Azzahra but often called as Arfa.</h1>
+<h1 align="center">Hi 👋, I'm Arfa.</h1>
 <h3 align="center">Learning how the code to work without blow my brains out.</h3>
 
 - 🌱 I’m currently learning **about data structure and how code works.**
